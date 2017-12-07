@@ -20,10 +20,5 @@
 			"date": "2017-05-23",
 			"Title": "The Fountainhead"
 		}
-	],
-	"Add": {
-		"status": "success",
-		"date": "2017-12-10"
-	},
-	"Delete": "success"
+	]
 }
