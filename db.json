@@ -6,19 +6,29 @@
 			"Title": "The Fountainhead"
 		},
 		{
-			"Autuor": "Iyan Rand",
+			"Autuor": "Herman Melwill",
 			"date": "2017-05-23",
-			"Title": "The Fountainhead"
+			"Title": "Moby Dick"
 		},
 		{
-			"Autuor": "Iyan Rand",
+			"Autuor": "Sun Tzu",
 			"date": "2017-05-23",
-			"Title": "The Fountainhead"
+			"Title": "The Art Of War"
 		},
 		{
-			"Autuor": "Iyan Rand",
+			"Autuor": "Gabriel Garcia Marquez",
 			"date": "2017-05-23",
-			"Title": "The Fountainhead"
+			"Title": "One Hundred Years Of Solitude "
+		},
+		{
+			"Autuor": "jack kerouac",
+			"date": "2017-05-23",
+			"Title": "On The Road "
+		},
+		{
+			"Autuor": "Gabriel Garcia Marquez",
+			"date": "2017-05-23",
+			"Title": "Love In The Times Of Cholera "
 		}
 	]
 }
